@@ -16,10 +16,10 @@ h4 {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: top;
 }
 
 /* Mis trabajos */
