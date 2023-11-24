@@ -2,6 +2,17 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Nav Bar */
+.navCol {
+  background-color: #add8e6;
+  color: azure;
+}
+nav,
+h4 {
+  font-weight: 800;
+  color: azure;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -32,8 +43,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
