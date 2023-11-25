@@ -30,7 +30,9 @@ h4 {
   background-size: cover;
   background-position: top;
 }
-
+.myjobsback {
+  background-color: #add8e6;
+}
 /* Contacto */
 
 #Contacto form label {
